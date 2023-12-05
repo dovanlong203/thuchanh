@@ -395,7 +395,7 @@ $('<option>').val(value2.service_id).text("GHN_Đường bộ").appendTo('#ship'
         });
     });
 </script>
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     $(document).ready(function() {
         $('#ship').change(function(envent) {
             $('#ship_money').val('0');
@@ -451,4 +451,4 @@ $('<option>').val(value2.service_id).text("GHN_Đường bộ").appendTo('#ship'
             });
         });
     });
-</script>
+</script> -->
